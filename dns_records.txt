@@ -1,0 +1,12 @@
+=== A RECORDS ===
+45.33.32.156
+=== MX REGORDS ===
+=== NS REGORDS ===
+=== TXT RECORDS ===
+;; communications error to 192.168.43.1#53: timed out
+=== HOST ALL ===
+Trying "scanme.nmap.org"
+;; communications error to 192.168.43.1#53: timed out
+;; communications error to 192.168.43.1#53: timed out
+;; communications error to fd17:625c:f037:2::3#53: timed out
+;; no servers could be reached

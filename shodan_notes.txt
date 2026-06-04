@@ -1,0 +1,12 @@
+=== SHODAN SEARCH RESULTS ===
+Target: scanme.nmap.org
+Open Ports Found:
+-22 (SSH)
+-80 (HTTP)
+Service Banners:
+-OpenSSH
+-Apache HTTP Server
+Vulnerabilities Flagged:
+- NONE
+
+ 
